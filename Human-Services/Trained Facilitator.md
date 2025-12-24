@@ -24,7 +24,7 @@ Diese Arbeit ermöglicht Orientierung, ohne zu simplifizieren, und Fokus, ohne z
 
 **S**eit meiner Zertifizierung als trained facilitator of LEGO® SERIOUS PLAY® method and materials fokussiere ich mich verstärkt auf die Anwendung dieser Methodologie in High Responsibility Teams, insbesondere im Gesundheitswesen, in der Notfallversorgung und in komplexen Entscheidungssituationen. LEGO® SERIOUS PLAY® erlaubt es, implizites Wissen sichtbar zu machen, kritische Interaktionen im Raum zu verorten und kollektive Weisheit emergent werden zu lassen. Diese Qualifikation vertieft meine systemische Arbeit in Kontexten hoher Komplexität und Verantwortung.
 
-![[LSP Badge_Complete Certification.png]]
+![[Allgemein beruflich/Abbildungen/LSP Badge_Complete Certification.png]]
 **[LEGO® SERIOUS PLAY® (LSP) facilitator badge](https://inthrface.com/en/complete-certification-in-the-lego-serious-play-methodology-badge/)**
 
 > [!info] Testimonial von Professor Johan S. Roos
