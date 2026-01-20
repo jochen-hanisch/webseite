@@ -96,8 +96,8 @@ $$
 
 **I**ch berücksichtige den individuellen Bedarf von Einzelpersonen, Teams oder Organisationen und lege großen Wert darauf, durch transparente und nachvollziehbare Preisstrukturen die Grundlage für eine langfristige Zusammenarbeit zu schaffen.
 
->**Die hier aufgeführten Honorare dienen als Orientierung.**
-**A**bhängig von Projektumfang und Rahmenbedingungen sind individuelle Anpassungen möglich. Für gemeinnützige Organisationen oder soziale Projekte biete ich nach Absprache ermäßigte Sätze an.
+> [!info] **Die hier aufgeführten Honorare dienen als Orientierung.**
+Abhängig von Projektumfang und Rahmenbedingungen sind individuelle Anpassungen möglich. Für gemeinnützige Organisationen oder soziale Projekte biete ich nach Absprache ermäßigte Sätze an. Die beschriebenen Formate werden kontextabhängig und anlassbezogen umgesetzt.
 
 **W**enn Sie Fragen zu den Honoraren oder zu meinen Beratungsleistungen haben, stehe ich Ihnen gerne zur Verfügung. [[Kontakt|Kontaktieren]] Sie mich für weitere Informationen oder ein individuelles Angebot.
 
