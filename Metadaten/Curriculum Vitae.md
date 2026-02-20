@@ -15,7 +15,7 @@ published:
 
 **D**er Europass ist für mich weit mehr als ein digitales Formular. Er ist ein Ort der Klarheit: maschinenlesbar, anschlussfähig und offen. Er trennt Darstellung von Datenhaltung, hält Biografisches konsistent und unterstützt offene Versionierung – dieselbe Logik, nach der ich Forschung und Veröffentlichungen dokumentiere.
 
-👉 [Hier geht’s zu meinem vollständigen Lebenslauf im Europass-Format](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/jochen-hanisch-johannsen/9833134c-5aaf-47ef-922d-cfad3bdfffc2?view=html)
+👉 [Hier geht’s zu meinem vollständigen Lebenslauf im Europass-Format](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/jochen-hanisch-johannsen/a77a1b84-20c2-4eac-8541-b81c340aab07?view=html)
 
 > _Eine Quelle. Eine Struktur. Eine Referenz._ – Versionierung ist für mich Ausdruck von Haltung, nicht technische Spielerei.
 
