@@ -1,6 +1,6 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: Soziotherapeut i. Anerkennungsverfahren
+title: Soziotherapeut
 Repository: 
 created: 2025-07-15
 updated: 2025-08-30
@@ -15,7 +15,7 @@ type:
 project: Soziotherapie
 ---
 
-**A**ls Soziotherapeut i. Anerkennungsverfahren unterstütze ich zukünftig erwachsene Menschen mit chronischen psychischen Erkrankungen bei der Bewältigung ihres Alltags, beim Aufbau tragfähiger Strukturen und in der koordinierenden Zusammenarbeit mit Ärztinnen und Ärzten, Therapeutinnen und Therapeuten sowie sozialen Institutionen. Der Fokus meiner Arbeit liegt auf der Förderung von Selbststeuerung, Stabilisierung und Versorgungskontinuität.
+**A**ls Soziotherapeut unterstütze ich erwachsene Menschen mit chronischen psychischen Erkrankungen bei der Bewältigung ihres Alltags, beim Aufbau tragfähiger Strukturen und in der koordinierenden Zusammenarbeit mit Ärztinnen und Ärzten, Therapeutinnen und Therapeuten sowie sozialen Institutionen. Der Fokus meiner Arbeit liegt auf der Förderung von Selbststeuerung, Stabilisierung und Versorgungskontinuität.
 
 # Qualifikationshintergrund
 
@@ -46,7 +46,7 @@ project: Soziotherapie
 
 # Perspektive
 
-**D**erzeit befinde ich mich im **formellen Anerkennungsverfahren als Soziotherapeut**. Die Voraussetzungen gemäß G-BA-Richtlinie sind nachweislich erfüllt; das Gutachten ist in Arbeit. Parallel dazu baue ich mein Netzwerk aus und bin offen für Kooperationsanfragen mit Fachärzt\*innen, Therapeut\*innen und Sozialdiensten.
+**D**as Anerkennungsverfahren ist abgeschlossen. Parallel dazu baue ich mein Netzwerk aus und bin offen für Kooperationsanfragen mit Fachärzt\*innen, Therapeut\*innen und Sozialdiensten.
 
 ---
 
